@@ -4,6 +4,10 @@
 
 - [Mainnets](./Mainnets.md)
   - [Lido ↔ ETH Vault (AAVE v3)](./pilot_vault.md)
+  - [Versions](./mainnets_versions.md)
+    - [Version 0.1.12](./version_0.1.12.md)
+    - [Version 0.2.0](./version_0.2.0.md)
+    - [Version 0.2.1](./version_0.2.1.md)
 
 - [Testnets](./testnets.md)
   - [Ghost Testnet](./ghost_testnet.md)
